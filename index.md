@@ -14,6 +14,7 @@
 
 If you have any questions about these rules, please email HTB at info@htb
 
+```
 # Header 1
 ## Header 2
 ### Header 3
@@ -27,7 +28,6 @@ If you have any questions about these rules, please email HTB at info@htb
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
