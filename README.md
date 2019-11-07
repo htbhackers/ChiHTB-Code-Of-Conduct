@@ -1,1 +1,1 @@
-# ChiHTB-Code-Of-Conduct
+# HTB-Chicago Code Of Conduct
