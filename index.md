@@ -1,4 +1,6 @@
-## Welcome to HackTheBox Chicago Meetup. It's important that you read the following code of conduct below. Violation of any of the following things will lead to you being BANNED from the group. No Exceptions!
+## Welcome to HackTheBox Chicago Meetup. 
+
+It's important that you read the following code of conduct below. Violation of any of the following things will lead to you being BANNED from the group. No Exceptions!
 
 
 ## Code of Conduct:
@@ -13,6 +15,5 @@
 7. No recruiting of people or services during the meetup unless explicitly given permission by HTB stakeholders or team leaders
 
 If you have any questions about these rules, please email HTB at info@hackthebox.eu
+```
 
-
-https://media.giphy.com/media/l46Cu1EkqNPDn2pMY/giphy.gif
